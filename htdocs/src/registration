@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Registration</title>
+		<script type="text/javascript" src="../js/login.js"> </script>
+	</head>
+
+	<body onload="loadReg()">
+		<br><br>
+		<b><i><p>Please be patient while the server generates encryption keys for the security of your passwords</p></i></b>
+		<form name="registration" id="regForm" action="../../cgi-bin/regCheck.py">
+		</form>
+	</body>
+</html>

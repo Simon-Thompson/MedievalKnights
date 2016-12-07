@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Login</title>
+		<script type="text/javascript" src="../js/login.js"> </script>
+	</head>
+
+	<body onload="loadLog()">
+		<br><br>
+		<b><i><p>Please be patient while the server generates encryption keys for the security of your passwords</p></i></b>
+	  	<form name="login" id="loginForm" action="../../cgi-bin/logCheck.py">
+		</form>
+	</body>
+</html>
+
+
