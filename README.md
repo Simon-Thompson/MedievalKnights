@@ -18,7 +18,7 @@ Technologies:
 
 Instructions:
 
-1. XAMPP with Python installation
+1 XAMPP with Python installation
 
 Install XAMPP and make sure that you are able to run .py scripts on it
 	- In order to run .py script you need to:
@@ -28,14 +28,14 @@ Install XAMPP and make sure that you are able to run .py scripts on it
 		- Make sure the ! in the py scripts point to the location of the python installation on your pc
 
 -------------------------------------------------------------------------------
-2. Database Setup
+2 Database Setup
 	
 Go into phpMyAdmin
 Create a database called loveydovey
 Import the sql script for the database
 
 -------------------------------------------------------------------------------
-3. Site Setup
+3 Site Setup
 
 Put the cgi bin elements into your xampp cgi bin
 Put the elements in the htdocs into your xampp htdocs
